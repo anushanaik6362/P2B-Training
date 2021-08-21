@@ -1,0 +1,201 @@
+header{
+    position: absolute;
+    width: 100%;
+    height: 80;
+    top: 0%;
+    left: 0%;
+    overflow: none;
+    display: inline-flex;
+    color: rgb(89, 0, 255);
+}
+header h1{
+    margin-top: 8px;
+    margin-left: 10px;
+}
+h1{
+    top: 3%;
+}
+nav{
+    background-size: cover;
+    background-color: black;
+    overflow: none;
+    width: 100%;
+    
+}
+p.welcome{
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(241, 238, 14);
+}
+span.a{
+    color: rgb(89, 0, 255);
+}
+.text{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+ul{
+    margin:0;
+    padding: 0;
+    list-style: none;
+    margin-top: 5%;
+    height: 36px;
+    line-height: 36px;
+    font-size: 15px;
+    margin-left: 0%;
+    width: 100%;
+    
+
+}
+ul li{
+    float: left;
+    border-right: 1px solid blue ;
+}
+ a{
+    padding: 0 28px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+ul li a:hover{
+    background-color:blue;
+}
+.goals{
+    width: 500px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.container{
+    display: inline-flex;
+
+}
+.about{
+    width: 100%;
+    background-color: rgb(253, 249, 249);
+}
+.aa{
+    text-align: center;
+    padding: 0 30px;
+    font-size: 20px;
+}
+ol{
+    list-style: lower-latin;
+}
+.obj{
+    border: 1px solid rgb(10, 8, 8);
+    width: 600px;
+    box-shadow: 2px 2px black;
+    background-color: rgb(255, 238, 238);
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px;
+    display: inline-flex;
+    margin-left: 90px;
+    border-radius: 5px;
+}
+.oooo{
+    width: 470px;
+    text-align: center;
+    display: inline-flex;
+    margin:0 120px
+}
+.testimonials{
+    text-align: center;
+    line-height: 9px;
+}
+.test{
+    width: 350px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid gainsboro;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgb(236, 240, 200);
+    margin:0 70px;
+}
+.testaa{
+    display: flex;
+}
+.name{
+    line-height: 5px;
+}
+p.clgname{
+    color: blue;
+}
+.gallery{
+    text-align: center;
+    line-height: 9px;
+}
+.images img{
+    border: 2px solid black;
+}
+.images{
+    margin-left: 150px;
+}
+input{
+    width: 40rem;
+    height: 3rem;
+    padding-left: 15px;
+    margin-left: 50px;
+}
+form{
+    width: 47rem;
+    background-color: gainsboro;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+textarea{
+    width: 40rem;
+    padding-left: 15px;
+    margin-left: 50px;
+}
+input.submit{
+    width: 10rem;
+    border-radius: 50px;
+    margin-left: 40%;
+    font-weight: bolder;
+    color: white;
+    background-color: orange;
+    font-size: 18px;
+}
+.contact{
+    display: flex;
+}
+.loc{
+    margin: 0 50px;
+}
+.loc h2{
+    line-height: 10px;
+
+}
+.queries{
+    display: flex;
+}
+.queries p{
+    margin-top: 6px;
+    margin-left: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.extra{
+    color: white;
+    display: flex;
+}
+.add{
+    margin-top: 30px;
+    line-height: 1px;
+    margin-left: 100px;
+}
+.ex{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.eximg{
+    background-color: rgb(2, 24, 65);
+}
